@@ -3,8 +3,7 @@
 ## Local Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/hishamaatif5-byte/PocketSmart-AI.git](https://github.com/hishamaatif5-byte/PocketSmart-AI.git)
-   cd PocketSmart-AI
+   git clone [https://github.com/ponnurangamm21-wq/FitBudyy-AI/blob/main/Project_Phases/Phase_7_Project_Documentation.md]
    
 
 
