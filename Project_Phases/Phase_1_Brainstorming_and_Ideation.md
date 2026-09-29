@@ -10,7 +10,6 @@ PocketSmart AI automates budget tracking by using Google Gemini 1.5 multimodal A
 ## Target Audience
 Students, homemakers, and small teams needing fast, frictionless expense breakdowns.
 
-
 # Phase 1: Brainstorming & Ideation
 
 - *Date:* 29 September 2026
