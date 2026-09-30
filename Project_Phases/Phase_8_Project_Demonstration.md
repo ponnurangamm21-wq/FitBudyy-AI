@@ -2,7 +2,7 @@
 
 ## Demonstration Deliverables
 - **Live Application URL:* http://127.0.0.1:8000*
-- **Project Demonstration Video:*https://drive.google.com/file/d/1pX-LwD_HoHozeppNYZJs81WQ-FvHT7YU/view?usp=drivesdk* ]
+- **Project Demonstration Video:*https://drive.google.com/file/d/1iS2TuyfcDptSD0AyIMPvldJM0_UTwqbh/view?usp=drivesdk* ]
 
 ## Video Walkthrough Outline
 1. **Introduction:** Presentation of team members and project title (*PocketSmart AI*).
